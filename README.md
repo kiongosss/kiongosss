@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiongosss
+- 👋 Hi, I’m Enock
 - 👀 I’m interested in SaaS Products ...
 - 🌱 I’m currently building SaaS, PaaS related products with good UI/UX
 - 💞️ I’m looking to collaborate with fellow #buildinpublic indie hackers
