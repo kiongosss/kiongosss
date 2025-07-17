@@ -201,7 +201,7 @@ const omosayansi = {
 
 <!-- View More Projects Button -->
 <p align="center">
-  <a href="https://omosayansi-portfolio.vercel.app/projects">
+  <a href="https://omosayansi-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/View%20All%20Projects-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </p>
@@ -277,7 +277,7 @@ const omosayansi = {
 
 <!-- Note about the repository -->
 <div align="center">
-  <sup>This README is part of my <a href="https://github.com/kiongosss/kiongosss">special GitHub profile repository</a></sup>
+  <sup>This README is part of my <a href="https://github.com/kiongosss/">special GitHub profile repository</a></sup>
 </div>
 
 <!-- Note: You'll need to create a repository named 'kiongosss' and add the GIF assets to an assets folder for the animations to work -->
